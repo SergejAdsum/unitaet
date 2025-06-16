@@ -28,7 +28,8 @@
 ---
 
 ## 📄 Whitepaper
-See [Unitaet Token Whitepaper](./Unitaet%20Token%20Whitepaper_version_02_2019_2024.pdf)
+See [Unitaet Token Whitepaper] 📄 [📥 Download Whitepaper (ZIP)](https://github.com/SergejAdsum/unitaet/raw/main/Unitaet%20Token%20Whitepaper_version_02_2019_2025.zip)
+
 
 ---
 
